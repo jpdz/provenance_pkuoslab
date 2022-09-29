@@ -1,10 +1,10 @@
 # provenance_pkuoslab
 该资源是各种溯源分析相关的论文和资源总结，包括文章以及对应的PPT（如果有的话）。涉及APT攻击检测、入侵检测、流量日志检测、系统安全等领域，希望对大家有所帮助。
 
-## 溯源数据采集
+## auditing
 
-## 溯源数据分析
+## detection && investigation
 
-## 溯源数据Summarization
+## Summarization techniques
 
-## 可视化
+## Visualization
